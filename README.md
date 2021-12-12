@@ -6,6 +6,7 @@
 ###### 1. What's the output?
 
 ```javascript
+	
 function sayHi() {
   console.log(name);
   console.log(age);
@@ -14,6 +15,7 @@ function sayHi() {
 }
 
 sayHi();
+	
 ```
 - A: `Lydia` and `undefined`
 - B: `Lydia` and `ReferenceError`
