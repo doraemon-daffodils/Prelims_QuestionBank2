@@ -313,10 +313,10 @@ let greeting;
 greetign = {}; // Typo!
 console.log(greetign);
 ```
-
-- A: `{}`
-- B: `ReferenceError: greetign is not defined`
-- C: `undefined`
+- A: `orange`
+- B: `purple`
+- C: `green`
+- D: `TypeError`
 
 <details><summary><b>Answer</b></summary>
 <p>
