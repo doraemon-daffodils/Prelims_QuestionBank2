@@ -27,7 +27,6 @@ Feel free to reach out to me! 😊 <br />
 ###### 1. What's the output?
 
 ```javascript
-
 function sayHi() {
   console.log(name);
   console.log(age);
@@ -36,7 +35,6 @@ function sayHi() {
 }
 
 sayHi();
-
 ```
 
 - a: `Lydia` and `undefined`
