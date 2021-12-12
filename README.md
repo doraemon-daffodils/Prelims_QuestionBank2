@@ -3,6 +3,7 @@
   <h1>JavaScript Questions</h1>
 
 ---
+	
 ###### 1. What's the output?
 
 ```javascript
