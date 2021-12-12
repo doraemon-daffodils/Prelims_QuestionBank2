@@ -15,7 +15,7 @@ function sayHi() {
 
 sayHi();
 ```
-- a: `Lydia` and `undefined`
+- A: `Lydia` and `undefined`
 - B: `Lydia` and `ReferenceError`
 - C: `ReferenceError` and `21`
 - D: `undefined` and `ReferenceError`
