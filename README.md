@@ -314,7 +314,7 @@ greetign = {}; // Typo!
 console.log(greetign);
 ```
 
-- A `{}`
+- A) `{}`
 - B: `ReferenceError: greetign is not defined`
 - C: `undefined`
 
