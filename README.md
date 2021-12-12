@@ -250,7 +250,7 @@ console.log(a === b);
 console.log(b === c);
 ```
 
-- a: `true` `false` `true`
+- : `true` `false` `true`
 - B: `false` `false` `true`
 - C: `true` `false` `false`
 - D: `false` `true` `true`
