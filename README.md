@@ -37,6 +37,7 @@ Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, do
 ###### 2. What's the output?
 
 ```javascript
+	
 for (var i = 0; i < 3; i++) {
   setTimeout(() => console.log(i), 1);
 }
@@ -44,6 +45,7 @@ for (var i = 0; i < 3; i++) {
 for (let i = 0; i < 3; i++) {
   setTimeout(() => console.log(i), 1);
 }
+	
 ```
 
 - A: `0 1 2` and `0 1 2`
