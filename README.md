@@ -36,6 +36,9 @@ Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, do
 </details>
 
 ---
+<h1>JavaScript Questions</h1>
+	
+---
 
 ###### 2. What's the output?
 
