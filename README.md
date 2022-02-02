@@ -4,7 +4,7 @@
 
 ---
 	
-###### A1. What's the output?
+###### A1. What's the kkkkk output?
 
 ```javascript
 	
