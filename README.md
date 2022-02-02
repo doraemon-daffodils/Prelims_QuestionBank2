@@ -4,7 +4,7 @@
 
 ---
 	
-###### 1a. What's the kkkkk output?
+###### 1a. What's the ddddd output?
 
 ```javascript
 	
