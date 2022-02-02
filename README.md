@@ -4,7 +4,7 @@
 
 ---
 	
-###### A1. What's the kkkkk output?
+###### 1a. What's the kkkkk output?
 
 ```javascript
 	
@@ -37,7 +37,7 @@ Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, do
 
 ---
 
-###### A2. What's the outpsssssssssseeeut?
+###### 2a. What's the outpsssssssssseeeut?
 
 ```javascript
 	
