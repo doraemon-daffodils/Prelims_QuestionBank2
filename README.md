@@ -8,7 +8,7 @@
 
 
 
-```
+```javascript
 	
 1. The Governor of the Reserve bank of India (RBI) is a appointed by the Central Government.
 2. Certain provisions in the Constitution of India give the  Central Government the  right to issue directions to  the RBI in public interest.
