@@ -4,37 +4,32 @@
 
 ---
 	
-###### 2a. What's the ddddd output?
+###### 1. Consider the following statements. Which of the above statements are correct?
 
-```javascript
+
+
+```
 	
-1. Consists of not more than 25 Members of
-the Lok Sabha.
-2. Scrutinizes appropriation and finance
-accounts of the Government.
-3. Examines the report of the Comptroller
-and Auditor General of India.
-	
+1. The Governor of the Reserve bank of India (RBI) is a appointed by the Central Government.
+2. Certain provisions in the Constitution of India give the  Central Government the  right to issue directions to  the RBI in public interest.
+3. The Governor of the RBI  draws his power from the  RBI Act.
+
 	
 ```
 	
-- A: Lydia and `undefined`
-- B: `Lydia` and `ReferenceError`
-- C: `ReferenceError` and `21`
-- D: `undefined` and `ReferenceError`
+- A: 1 and 2 only
+- B: 2 and 3 only
+- C: 1 and 3 only
+- D: 1, 2 and 3
 
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: D
+#### Answer: C
 
-Within the function, we first declare the `name` variable with the `var` keyword. This means that the variable gets hoisted (memory space is set up during the creation phase) with the default value of `undefined`, until we actually get to the line where we define the variable. We haven't defined the variable yet on the line where we try to log the `name` variable, so it still holds the value of `undefined`.
-
-Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, don't get <i>initialized</i>. They are not accessible before the line we declare (initialize) them. This is called the "temporal dead zone". When we try to access the variables before they are declared, JavaScript throws a `ReferenceError`.
 
 </p>
 </details>
-
 ---
 
 ###### 2b. What's the outpsssssssssseeeut?
