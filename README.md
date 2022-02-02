@@ -18,7 +18,7 @@ for (let i = 0; i < 3; i++) {
 	
 ```
 	
-- A: `Lydia` and `undefined`
+- A: Lydia and `undefined`
 - B: `Lydia` and `ReferenceError`
 - C: `ReferenceError` and `21`
 - D: `undefined` and `ReferenceError`
