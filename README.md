@@ -8,13 +8,13 @@
 
 ```javascript
 	
-for (var i = 0; i < 3; i++) {
-  setTimeout(() => console.log(i), 1);
-}
-
-for (let i = 0; i < 3; i++) {
-  setTimeout(() => console.log(i), 1);
-}
+1. Consists of not more than 25 Members of
+the Lok Sabha.
+2. Scrutinizes appropriation and finance
+accounts of the Government.
+3. Examines the report of the Comptroller
+and Auditor General of India.
+	
 	
 ```
 	
