@@ -37,7 +37,7 @@ Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, do
 
 ---
 
-###### 2. What's the output?
+###### 2. What's the outpeeeut?
 
 ```javascript
 	
