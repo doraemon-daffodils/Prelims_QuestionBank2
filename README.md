@@ -4,7 +4,7 @@
 
 ---
 	
-###### 1.What's the output?
+######  1. What's the output?
 
 ```javascript
 	
