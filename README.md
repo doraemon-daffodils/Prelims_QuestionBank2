@@ -4,7 +4,7 @@
 
 ---
 	
-###### 1a. What's the ddddd output?
+###### 2a. What's the ddddd output?
 
 ```javascript
 	
@@ -37,7 +37,7 @@ Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, do
 
 ---
 
-###### 2a. What's the outpsssssssssseeeut?
+###### 2b. What's the outpsssssssssseeeut?
 
 ```javascript
 	
